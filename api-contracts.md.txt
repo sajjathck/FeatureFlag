@@ -1,7 +1,0 @@
-POST   /api/flags
-GET    /api/flags
-PUT    /api/flags/{id}
-POST   /api/flags/{id}/toggle
-POST   /api/flags/{id}/targets
-GET    /api/flags/evaluate?userId=xxx
-GET    /api/audit-logs
